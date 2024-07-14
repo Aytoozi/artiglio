@@ -106,7 +106,7 @@ section {
   
   #title {
     font-size: 24px;
-    color: black;
+    color: white;
   }
   
   
@@ -207,5 +207,8 @@ section {
   }
   .contact{
     width:70%;
+  }
+  #title{
+    color:black;
   }
 }

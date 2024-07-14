@@ -65,7 +65,7 @@ body, html {
 
 #title {
   font-size: 24px;
-  color: black;
+  color: white;
 }
 
 
@@ -240,5 +240,8 @@ body, html {
 
   .hamburger-menu {
     display: flex;
+  }
+  #title{
+    color:black;
   }
 }
